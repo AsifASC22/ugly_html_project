@@ -5,6 +5,40 @@ h1 {
     font-family: Helvetica;
 }
 
-img{
-    width: 200px;
+h3 {
+    
 }
+
+img{
+    . cover {
+        object-fit: cover;
+        width: 50px;
+        height: 100px;
+        }
+
+    width: px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-image:rgb(0, 0, 83)
+    
+
+}
+
+
+  
+
+body {
+    background-color: rgb(0, 0, 0);
+  }
+  body {
+    color: white;
+  }
+   {
+    color: white;
+  }
+  h3 {
+    color: white;
+  }
+
+  
